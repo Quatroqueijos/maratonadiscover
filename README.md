@@ -1,2 +1,2 @@
 # maratonadiscover
-Projeto desenvolvido durante a maratona
+Projeto  de um aplicativo financeiro desenvolvido durante a maratona discover, da rocketseat.
